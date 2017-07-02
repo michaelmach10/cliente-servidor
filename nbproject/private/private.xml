@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/Admin/Documents/NetBeansProjects/proyecto/src/com/lightproducts/proyecto/dao/UsuarioDAO.java</file>
+            <file>file:/C:/Users/Admin/Documents/NetBeansProjects/proyecto/src/com/lightproducts/proyecto/servicios/ProductoServ.java</file>
+            <file>file:/C:/Users/Admin/Documents/NetBeansProjects/proyecto/src/com/lightproducts/proyecto/config/Conexion.java</file>
+            <file>file:/C:/Users/Admin/Documents/NetBeansProjects/proyecto/src/com/lightproducts/proyecto/dao/ProductoDAO.java</file>
+            <file>file:/C:/Users/Admin/Documents/NetBeansProjects/proyecto/src/com/lightproducts/proyecto/frm/ProductosFrm.java</file>
+            <file>file:/C:/Users/Admin/Documents/NetBeansProjects/proyecto/src/com/lightproducts/proyecto/dao/imp/UsuarioDAOImpl.java</file>
+            <file>file:/C:/Users/Admin/Documents/NetBeansProjects/proyecto/src/com/lightproducts/proyecto/seguridad/Seguro.java</file>
+            <file>file:/C:/Users/Admin/Documents/NetBeansProjects/proyecto/src/com/lightproducts/proyecto/servicios/imp/ProductoServImpl.java</file>
+            <file>file:/C:/Users/Admin/Documents/NetBeansProjects/proyecto/src/com/lightproducts/proyecto/config/log4j2.json</file>
+            <file>file:/C:/Users/Admin/Documents/NetBeansProjects/proyecto/src/com/lightproducts/proyecto/dao/imp/ProductoDAOImpl.java</file>
+        </group>
+    </open-files>
+</project-private>

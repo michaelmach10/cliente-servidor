@@ -1,0 +1,5 @@
+projectKey=com.lightproducts.proyecto
+serverUrl=http://localhost:9000
+dashboardUrl=http://localhost:9000/dashboard/index/com.lightproducts.proyecto
+ceTaskId=AV0B6HPlyeclHvZNSqML
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AV0B6HPlyeclHvZNSqML
